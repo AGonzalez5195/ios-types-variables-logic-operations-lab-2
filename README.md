@@ -38,7 +38,7 @@ if yourGrade > classAverage {
 
 You are given a number. Print even if the number is even or odd otherwise.
 
-
+```swift
 let number = 2
 
 _________
