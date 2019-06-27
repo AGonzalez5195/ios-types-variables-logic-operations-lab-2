@@ -122,7 +122,6 @@ The above rule is valid except that every 100 years special rules apply. Years t
 let year = 2014
 
 _________
-let year = 2014
 
 if year % 400 == 0 {
     print ("leap year")
@@ -134,6 +133,7 @@ if year % 400 == 0 {
     print ("Not a leap year")```
 
 ***
+```
 ## Question 7
 
 If you use `random()` it will give you a random number within a specified range. Generate a random number and use it to simulate a coin toss. Print `"heads"` or `"tails"`.
