@@ -1,13 +1,5 @@
 # Types Variables Logic and Operations Lab 2
 
-## Instructions for lab submission
-
-1. Fork the assignment repo
-1. Clone your Fork to your machine
-1. Complete the lab
-1. Push your changes to your Fork
-1. Submit a Pull Request back to the assignment repo
-1. Paste a link to of your Fork on Canvas and submit
 
 ## Question 1
 
@@ -34,6 +26,7 @@ if yourGrade > classAverage {
 }
 
 ***
+```
 ## Question 2
 
 You are given a number. Print even if the number is even or odd otherwise.
@@ -159,6 +152,7 @@ if randomNum % 2 == 0 {
 Hint: use an if/else block along with the `%` operator
 
 ***
+```
 ## Question 8
 
 You are given four variables `a`, `b`, `c` and `d`. Print the value of the smallest one.
